@@ -29,3 +29,5 @@ gcsfs
 transformers
 einops
 timm
+
+cdsapi>=0.7.4

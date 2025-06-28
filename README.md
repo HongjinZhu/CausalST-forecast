@@ -20,10 +20,12 @@ This repository is part of a research project aiming to forecast solar field out
 
 ## Repository Structure
 
+```
 era5-solar-benchmark/
 ├── data/
 │ ├── era5_features.csv
 │ └── pv_output.csv
+│ └── README.md
 ├── models/
 │ ├── train_xgboost.py
 │ ├── train_lstm.py
@@ -36,7 +38,7 @@ era5-solar-benchmark/
 │ ├── model_outputs/
 │ └── evaluation_plots/
 └── README.md
-
+```
 
 ---
 

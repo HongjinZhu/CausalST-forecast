@@ -4,13 +4,13 @@ dataset = "reanalysis-era5-single-levels"
 request = {
     "product_type": ["reanalysis"],
     "variable": [
-        "2m_temperature",
-        "surface_solar_radiation_downwards",
-        "total_cloud_cover"
+        "surface_solar_radiation_downwards"
     ],
     "year": ["2021"],
     "month": ["07"],
-    "day": ["01", "02", "03"],
+    "day": ["01", "02", "03",
+        "04", "05", "06",
+        "07"],
     "time": [
         "00:00", "01:00", "02:00",
         "03:00", "04:00", "05:00",

@@ -10,8 +10,8 @@ request = {
         "u_component_of_wind",
         "v_component_of_wind"
     ],
-    "year": ["2021"],
-    "month": ["07"],
+    "year": ["2022"],
+    "month": ["01", "02"],
     "day": [
         "01", "02", "03",
         "04", "05", "06",
